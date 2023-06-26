@@ -1,2 +1,2 @@
 # JavaFS
-Java Full Stack Movie Webpage
+Java, JavaScript, React, TypeScript, MongoDB Full Stack Movie Webpage
